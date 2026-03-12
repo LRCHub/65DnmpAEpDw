@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "miwa 『360°』 Music Video",
+  "base_artist": "miwa",
+  "createdAt": "2026-03-12T18:18:05.409439Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "miwa 『ヒカリヘ』Music Video",
+      "artist": "miwa",
+      "has_synced": true,
+      "path": "select/01_miwa_『ヒカリヘ』Music_Video_miwa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "miwa 『ヒカリヘ』Music Video",
+      "artist": "miwa",
+      "has_synced": true,
+      "path": "select/02_miwa_『ヒカリヘ』Music_Video_miwa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Red Ray (feat. miwa)",
+      "artist": "Sugizo",
+      "has_synced": false,
+      "path": "select/03_A_Red_Ray_(feat._miwa)_Sugizo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "記念日。feat. miwa",
+      "artist": "ハジ→",
+      "has_synced": true,
+      "path": "select/04_記念日。feat._miwa_ハジ→.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Song Of The Black Lizard-Miwa",
+      "artist": "Pink Martini",
+      "has_synced": true,
+      "path": "select/05_Song_Of_The_Black_Lizard-Miwa_Pink_Martini.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君に出会えたから  (miwa live at 武道館～acoguissimo～)",
+      "artist": "Miwa",
+      "has_synced": false,
+      "path": "select/06_君に出会えたから_(miwa_live_at_武道館~acoguissimo~)_Miwa.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Miracle  (miwa live at budokan acoguissimo)",
+      "artist": "Miwa",
+      "has_synced": false,
+      "path": "select/07_Miracle_(miwa_live_at_budokan_acoguissimo)_Miwa.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "GO! GO! Fine Day (ft. Miwa of COPTER4016882 on chorus)",
+      "artist": "capsule",
+      "has_synced": false,
+      "path": "select/08_GO!_GO!_Fine_Day_(ft._Miwa_of_COPTER4016882_on_chorus)_capsule.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "miwa / Chasing hearts",
+      "artist": "miwa / Chasing hearts",
+      "has_synced": true,
+      "path": "select/09_miwa___Chasing_hearts_miwa___Chasing_hearts.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "360 Degrees (Oh Yeah!)",
+      "artist": "Propellerheads",
+      "has_synced": false,
+      "path": "select/10_360_Degrees_(Oh_Yeah!)_Propellerheads.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "360 Degrees (Oh Yeah) (Feat. De La Soul)",
+      "artist": "Propellerheads",
+      "has_synced": false,
+      "path": "select/11_360_Degrees_(Oh_Yeah)_(Feat._De_La_Soul)_Propellerheads.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "360° (Oh Yeah?)",
+      "artist": "Propellerheads feat. De La Soul",
+      "has_synced": false,
+      "path": "select/12_360°_(Oh_Yeah_)_Propellerheads_feat._De_La_Soul.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "360° (Oh Yeah) (Feat. De La Soul)",
+      "artist": "Propellerheads",
+      "has_synced": false,
+      "path": "select/13_360°_(Oh_Yeah)_(Feat._De_La_Soul)_Propellerheads.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Looks Better (360 RA)",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/14_Love_Looks_Better_(360_RA)_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Be the One (360 Reality Audio)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/15_Be_the_One_(360_Reality_Audio)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blow Your Mind (Mwah) [360 Reality Audio]",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/16_Blow_Your_Mind_(Mwah)_[360_Reality_Audio]_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Garden (360 Reality Audio)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/17_Garden_(360_Reality_Audio)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Genesis (360 Reality Audio)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/18_Genesis_(360_Reality_Audio)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Homesick (360 Reality Audio)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/19_Homesick_(360_Reality_Audio)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Hotter Than Hell (360 Reality Audio)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/20_Hotter_Than_Hell_(360_Reality_Audio)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "IDGAF (360 Reality Audio)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/21_IDGAF_(360_Reality_Audio)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Lost In Your Light (feat. Miguel) [360 Reality Audio]",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/22_Lost_In_Your_Light_(feat._Miguel)_[360_Reality_Audio]_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "No Goodbyes (360 Reality Audio)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/23_No_Goodbyes_(360_Reality_Audio)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Thinking 'Bout You (360 Reality Audio)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/24_Thinking_'Bout_You_(360_Reality_Audio)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "360 (Oh Yeah?)",
+      "artist": "Propellerheads",
+      "has_synced": false,
+      "path": "select/25_360_(Oh_Yeah_)_Propellerheads.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "360° (Oh Yeah)",
+      "artist": "Propellerheads",
+      "has_synced": false,
+      "path": "select/26_360°_(Oh_Yeah)_Propellerheads.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "360° (Oh Yeah)",
+      "artist": "Propellerheads feat. De La Soul",
+      "has_synced": false,
+      "path": "select/27_360°_(Oh_Yeah)_Propellerheads_feat._De_La_Soul.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Magnificent (Redanka's 360 Version)",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/28_Magnificent_(Redanka's_360_Version)_U2.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "360",
+      "artist": "Josh Hoge",
+      "has_synced": false,
+      "path": "select/29_360_Josh_Hoge.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "360°",
+      "artist": "miwa",
+      "has_synced": false,
+      "path": "select/pl_01_360°_miwa.txt"
+    }
+  ]
+}
